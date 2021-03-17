@@ -1,3 +1,4 @@
+You can enter the image you want to search in search bar and after pressing the enter key, the results will be displayed in a fraction of seconds.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
